@@ -17,7 +17,7 @@ export default function InfoLinkComponent({ bgColor }): JSX.Element {
 				px="4"
 			>
 				<Link
-					href="https://github.com/harunpehlivan/githubprofilecards"
+					href="https://github.com/harunpehlivan"
 					isExternal
 					display="flex"
 					alignItems="center"
@@ -29,8 +29,7 @@ export default function InfoLinkComponent({ bgColor }): JSX.Element {
 					fontSize="sm"
 					lineHeight="normal"
 				>
-					This is a template for Next.js. Check out the repo and create your own projects
-					from this template
+					 HARUN PEHLİVAN CODER,DESIGNER,PUBLİSHER,DIGITAL CONTENT PRODUCER FOUNDER CEO ENTREPRENEUR RESEARCH AND DEVELOPMENT 
 					<Text
 						as={FiExternalLink}
 						fontSize={{ base: '2.5rem', sm: '1.5rem', md: 'inherit' }}
