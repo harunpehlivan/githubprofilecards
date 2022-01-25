@@ -17,7 +17,7 @@ export default function InfoLinkComponent({ bgColor }): JSX.Element {
 				px="4"
 			>
 				<Link
-					href="https://github.com/gmatthewsfeuer/next-plate"
+					href="https://github.com/harunpehlivan/githubprofilecards"
 					isExternal
 					display="flex"
 					alignItems="center"
