@@ -55,7 +55,7 @@
 
 <!-- Link Demo Section -->
 
-## 🚀 [Demo](https://next-plate.vercel.app)
+## 🚀 [Demo](https://githubprofilecards.vercel.app)
 
 ## 📖 Introduction
 
@@ -117,7 +117,7 @@ This project features all the latest tools and good practices in web development
 3. Now you can clone the generated repository to your local machine:
 
    ```bash
-    $ git clone https://github.com/gmatthewsfeuer/<name-of-your-generated-repository>.git
+    $ git clone https://github.com/harunpehlivan/<name-of-your-generated-repository>.git
    ```
 
 4. Move yourself to the root of the project
